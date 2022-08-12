@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "~ Proin eget tortor risus.",
+    "answer": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula."
+  },
+  {
+    "id": 2,
+    "title": "~ Curabitur aliquet quam id dui posuere blandit. Lorem?",
+    "answer": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula."
+  },
+  {
+    "id": 3,
+    "title": "~ Pellentesque in ipsum id orci porta dapibus.",
+    "answer": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula."
+  },
+  {
+    "id": 4,
+    "title": "~ Nulla porttitor accumsan tincidunt.",
+    "answer": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula."
+  }
+]
